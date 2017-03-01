@@ -1,0 +1,118 @@
+﻿.tabs-striped .tabs {
+    background-color: #000 !important;
+}
+.overflow-scroll {
+    background-image: url("../img/back.jpg");
+    background-repeat:no-repeat;
+}
+.oaplikaciji {
+    font-weight: bolder;
+    font-size: 25px;
+    text-shadow: 2px 2px 8px #000;
+    text-align: center;
+    display: block;
+    font-family: cursive;
+    margin-bottom: 10px;
+    width: 100%;
+    margin: 0 auto;
+    text-transform: uppercase;
+    background-image:url("../img/galatea.png");
+    background-repeat:no-repeat;
+    width:200px;
+    height:40px;
+}
+.okartama {
+    font-weight: bolder;
+    font-size: 25px;
+    text-shadow: 2px 2px 8px #000;
+    text-align: center;
+    display: block;
+    font-family: cursive;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 100%;
+    text-transform: uppercase;
+    background-image:url("../img/karte.png");
+    background-repeat:no-repeat;
+    width:200px;
+    height:40px;
+}
+.slikakarte {
+    display:inline;
+    
+}
+    .slikakarte img {
+        width:120px;
+        height:auto;
+        margin-right:10px;
+        float: left;
+        box-shadow: 2px 2px 8px #333;
+
+    }
+.tekstkarte {
+    display: inline;
+    width: auto;
+    font-weight: bolder;
+    text-shadow: 1px 1px 8px #fff;
+}
+.xrepeat {
+    float:left;
+    padding-bottom: 10px;
+}
+.gumb {
+    width: 220px;
+    height: 70px;
+    margin: 0 auto;
+    position: relative;
+    background-image: url(../img/gumb2.png);
+}
+.galateachibi {
+    position:relative;
+    float:left;
+    background-image:url("../img/galateachibi.png");
+    background-repeat:no-repeat;
+    height:120px;
+    width:100%;
+    background-position:right;
+    border-bottom: 2px dotted #333;
+    margin-bottom:10px;
+
+}
+.chibikaze {
+    float: left;
+    margin: 10px;
+    font-family: 'Comic Sans MS';
+    font-style: italic;
+    border-radius: 10px 10px 0px 10px;
+    width: 220px;
+    font-weight: bold;
+    font-size: 16px;
+    height: 120px;
+    padding: 5px;
+    text-shadow: 1px 1px 2px #555;
+
+}
+.divider {
+    background-image: url(../img/divider.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 900;
+}
+.listpodatak {
+    float:left;
+    height:300px;
+}
+.centerdiv {
+    float: left;
+    display: block;
+    position: relative;
+    width: 100%;
+}
+.overflow-scroll > .scroll {
+    text-align:center !important;
+}

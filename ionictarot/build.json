@@ -1,0 +1,11 @@
+﻿   {
+     "android": {
+         "release": {
+        "keystore":"c:\\galatea.keystore",
+        "storePassword":"24049833jb",
+        "alias":"josip",
+       "password":"24049833jb",
+        "keystoreType":""
+           }
+       }
+    }

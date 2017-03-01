@@ -1,0 +1,17 @@
+﻿<ion-view view-title="Chats" hide-nav-bar="true">
+    <ion-content class="padding">
+        <span class="okartama"></span>
+
+            <div ng-repeat="x in karte">
+                <div class="xrepeat">
+                    <span class="slikakarte"><img src="img/{{x.imgurl}}" /></span>
+                    <span class="tekstkarte">
+                        <b>Naziv Karte:</b>{{x.naziv}}<br />
+                        <b>Karakteristike:</b>{{x.karakteristike}}<br />
+                        <b>Opis:</b>{{x.kratkiopis}}<br />
+
+                    </span>
+                </div>
+            </div>
+</ion-content>
+</ion-view>
