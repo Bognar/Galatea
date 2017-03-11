@@ -1,10 +1,13 @@
 ﻿.tabs-striped .tabs {
     background-color: #000 !important;
 }
-.overflow-scroll {
+.scroll-content {
     background-image: url("../img/back.jpg");
     background-repeat:no-repeat;
+    overflow:visible;
+    
 }
+
 .oaplikaciji {
     font-weight: bolder;
     font-size: 25px;
@@ -42,40 +45,45 @@
     
 }
     .slikakarte img {
-        width:120px;
-        height:auto;
-        margin-right:10px;
-        float: left;
-        box-shadow: 2px 2px 8px #333;
+    width: 120px;
+    height: auto;
+    margin-right: 10px;
+    float: left;
 
     }
 .tekstkarte {
     display: inline;
     width: auto;
+    text-align: left;
+    font-family: cursive;
     font-weight: bolder;
     text-shadow: 1px 1px 8px #fff;
 }
 .xrepeat {
-    float:left;
+    float: left;
     padding-bottom: 10px;
+    
 }
+
 .gumb {
-    width: 220px;
+    width: 100%;
+    background-repeat: no-repeat;
     height: 70px;
     margin: 0 auto;
+    background-position: center;
     position: relative;
     background-image: url(../img/gumb2.png);
 }
 .galateachibi {
-    position:relative;
-    float:left;
-    background-image:url("../img/galateachibi.png");
-    background-repeat:no-repeat;
-    height:120px;
-    width:100%;
-    background-position:right;
+    position: relative;
+    float: left;
+    background-image: url(../img/chibiico.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
+    background-position: right;
     border-bottom: 2px dotted #333;
-    margin-bottom:10px;
+    margin-bottom: 10px;
 
 }
 .chibikaze {
@@ -87,9 +95,10 @@
     width: 220px;
     font-weight: bold;
     font-size: 16px;
+    color: #fff;
     height: 120px;
     padding: 5px;
-    text-shadow: 1px 1px 2px #555;
+    text-shadow: 2px 2px 1px #000;
 
 }
 .divider {
@@ -105,14 +114,26 @@
 }
 .listpodatak {
     float:left;
-    height:300px;
+    height:auto;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+    padding-bottom: 10px;
+    background-image: url(../img/divider.png);
 }
 .centerdiv {
     float: left;
     display: block;
     position: relative;
+    margin-bottom: 10px;
     width: 100%;
 }
 .overflow-scroll > .scroll {
     text-align:center !important;
+}
+.titl {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px #000;
 }

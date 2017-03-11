@@ -7,15 +7,15 @@
       "karakteristike": "Prošlost, Sjećanje, Tugovanje, Stariji muškarac",
       "kratkiopis": "Stariji, ozbiljniji čovjek koji je dio naše obitelji, ili doslovno udovac, oženjen ili rastavljen čovjek, usamljen čovjek bez odgovarajuće partnerice.",
       "dugiopis": "",
-      "imgurl": "udovac.JPG"
+      "imgurl": "udovac.png"
     },
     {
       "id": 2,
       "naziv": "Čežnja",
-      "karakteristike": "Druga žena, Zavidnost, Ljubomora,Želja za nedostižnim",
+      "karakteristike": "Druga žena, Zavidnost, Ljubomora, Želja za nedostižnim",
       "kratkiopis": "Želja, predmet želje kojima su obuzete vaše misli, duša i srce, žudnja za nekim ili nečim, ?zabranjeno voće?, osjećaj kada nešto želimo iz sveg srca, ali postoji neka prepreka da do toga dođemo.",
       "dugiopis": "",
-      "imgurl": "ceznja.JPG"
+      "imgurl": "ceznja.png"
     },
     {
       "id": 3,
@@ -23,7 +23,7 @@
       "karakteristike": "Završetak, Negativan odgovor, Odlazak",
       "kratkiopis": "Korijenita promjena u životu, promjena iz temelja, transformacija, napuštanje starog da bi zapo?elo novo, strahovi, depresija, mračno stanje uma, noć, dugovi i krediti, bijeda, prošlost na koju treba zaboraviti, teške bolesti, ponekad znači i fizičku smrt.",
       "dugiopis": "",
-      "imgurl": "smrt.JPG"
+      "imgurl": "smrt.png"
     },
     {
       "id": 4,
@@ -31,7 +31,7 @@
       "karakteristike": "Putovanje, Odlazak, Samootkrivanje",
       "kratkiopis": "Kretanje, odlazak na put ili vraćanje s puta, promjene u životu, kontakt s ljudima koji su drugačiji od nas, brzina događanja, ono što nam ide u susret.",
       "dugiopis": "",
-      "imgurl": "putovanje.JPG"
+      "imgurl": "putovanje.png"
     },
     {
       "id": 5,
@@ -39,15 +39,15 @@
       "karakteristike": "Nedostatak promjena, Sigurnost, Postojanost, Uračunljivost",
       "kratkiopis": "Sudbina, istina, božja providnost, svakodnevica, ono na što ne možemo utjecati, konstanta, tvrdoglavost u vezi nekoga ili nečega, dobar savjetnik, pohvale i priznanja.",
       "dugiopis": "",
-      "imgurl": "stalnost.JPG"
+      "imgurl": "stalnost.png"
     },
     {
       "id": 6,
       "naziv": "Posjeta",
-      "karakteristike": "Društvo,Sastanak, Druženje, Dolazak gostiju",
+      "karakteristike": "Društvo, Sastanak, Druženje, Dolazak gostiju",
       "kratkiopis": "Odlazak nekome u posjetu ili dolazak u goste, obnavljanje nekog poznanstva, kontakti s ljudima koji nam donose željene i korisne informacije, pomirenje s bivšim partnerom/partnerkom.",
       "dugiopis": "",
-      "imgurl": "posjeta.JPG"
+      "imgurl": "posjeta.png"
     },
     {
       "id": 7,
@@ -55,7 +55,7 @@
       "karakteristike": "Razvod, Samoća, Tuga, Teška situacija",
       "kratkiopis": "Žena u braku ili ozbiljnoj vezi, usamljena žena, udovica, može označavati svaku ženu vazanu za porodicu (mama, baka, teta, strina, svekrva itd.), osjećaj samoće, gubitka, patnje i izoliranosti.",
       "dugiopis": "",
-      "imgurl": "udovica.JPG"
+      "imgurl": "udovica.png"
     },
     {
       "id": 8,
@@ -63,7 +63,7 @@
       "karakteristike": "Uljez, Slabost, Sumnja u sebe, Konflikti",
       "kratkiopis": "Suparnik/suparnica bilo na poslovnom bilo na emotivnom nivou, osoba koja nam ne želi dobro i kojoj se ne smije vjerovati, tajni neprijatelj koji samo čeka da vam naudi, negativna energija, tračanje, špijuniranje.",
       "dugiopis": "",
-      "imgurl": "neprijatelj.JPG"
+      "imgurl": "neprijatelj.png"
     },
     {
       "id": 9,
@@ -71,7 +71,7 @@
       "karakteristike": "Obveze, Gubitak samostalnosti, Brak",
       "kratkiopis": "Ozbiljna veza, brak, poslovni odnos, sklapanje ugovora.",
       "dugiopis": "",
-      "imgurl": "vjencanje.JPG"
+      "imgurl": "vjencanje.png"
     },
     {
       "id": 10,
@@ -79,7 +79,7 @@
       "karakteristike": "Provod, Zabava, Radost, Kreativnost",
       "kratkiopis": "Zabava, proslava, javna mjesta gdje se ljudi zabavljaju, nova poznanstva, novi ljubavni susreti, poslovna partnerstva.",
       "dugiopis": "",
-      "imgurl": "veselje.JPG"
+      "imgurl": "veselje.png"
     },
     {
       "id": 11,
@@ -87,7 +87,7 @@
       "karakteristike": "Isčekivanje, Budućnost, Vjerovanje u pozitivan ishod",
       "kratkiopis": "Poboljšanje na svim životnim poljima, očekivanje, pomirenje, vremenska i/ili prostorna udaljenost od osobe koju volimo i želimo vidjeti, kontakti na daljinu, kontakti sa strancima ili osobama koje žive u drugom gradu.",
       "dugiopis": "",
-      "imgurl": "nada.JPG"
+      "imgurl": "nada.png"
     },
     {
       "id": 12,
@@ -95,7 +95,7 @@
       "karakteristike": "Muž, Dečko, Samospoznaja unutarnjih vrijednosti",
       "kratkiopis": "Neoženjen muškarac, dečko, simpatija, lijepa i/ili dobra vijest, divljenje, komplimenti.",
       "dugiopis": "",
-      "imgurl": "ljubavnik.JPG"
+      "imgurl": "ljubavnik.png"
     },
     {
       "id": 13,
@@ -103,7 +103,7 @@
       "karakteristike": "Akt davanja i primanja, Donacija",
       "kratkiopis": "Poklon, osjećati se ponosno i uvaženo, počasćeno, ugodni doživljaji, samopouzdanje, uz opisnu kartu; lijepa i zgodna osoba, talent, u negativnom smislu može biti predznak neprilika. ",
       "dugiopis": "",
-      "imgurl": "poklon.JPG"
+      "imgurl": "poklon.png"
     },
     {
       "id": 14,
@@ -111,7 +111,7 @@
       "karakteristike": "Pobjeda, Garantirani uspijeh, Zgoditak",
       "kratkiopis": "Pozitivan ishod započetog, dobre okolnosti, sve dobro i pozitivno, dolazak ili odlazak na put i kontakt s ljudima koji nam nisu u blizini, biti lijepo ugošćen u dobrom društvu, izobilje, osjećati se zaštićenima od Univerzuma, blagostanje.",
       "dugiopis": "",
-      "imgurl": "sreca.JPG"
+      "imgurl": "sreca.png"
     },
     {
       "id": 15,
@@ -119,7 +119,7 @@
       "karakteristike": "Obitelj, Emotivne veze, Sigurnost, Kuća",
       "kratkiopis": "Dom i obitelj, briga o obitelji, nekretnine, privatni posao, povučenost, privatnost, vezano za osjećaje; ono što vam je na duši.",
       "dugiopis": "",
-      "imgurl": "kuca.JPG"
+      "imgurl": "kuca.png"
     },
     {
       "id": 16,
@@ -127,7 +127,7 @@
       "karakteristike": "Odgovor, Potvrda, Dokument, Odobrenje",
       "kratkiopis": "Dokumenti, vrijednosni dokumenti koje je moguće vidjeti i u papirnatom obliku npr. svjedodžbe, diploma, riješenja, ispiti itd., računi, doslovno pismo, problemi u komunikaciji, korisne i povoljne informacije, usluge i konzultacije, znakovi.",
       "dugiopis": "",
-      "imgurl": "pismo.JPG"
+      "imgurl": "pismo.png"
     },
     {
       "id": 17,
@@ -135,7 +135,7 @@
       "karakteristike": "Laži, Korupcija, Negativno",
       "kratkiopis": "Podmuklost, pokvarenost, (ne)namjerno prešućivanje nečega, (ne)namjerno pokazivanje pravih osjećaja, neiskrenost, netko tko se je loš, a pravi se fin.",
       "dugiopis": "",
-      "imgurl": "neiskrenost.JPG"
+      "imgurl": "neiskrenost.png"
     },
     {
       "id": 18,
@@ -143,7 +143,7 @@
       "karakteristike": "Pozitivni ishod, potvrda nečega, Intuicija, Vjernost",
       "kratkiopis": "Odanost, vjernost nekome ili nečemu, upornost, prijateljske namjere, vrijednost iskrenih emocija, prava ljubav ili iskreno prijateljstvo, dugotrajni skladni odnosi, pozitivna obiteljska atmosfera.",
       "dugiopis": "",
-      "imgurl": "vjernost.JPG"
+      "imgurl": "vjernost.png"
     },
     {
       "id": 19,
@@ -151,7 +151,7 @@
       "karakteristike": "Čekanje ishoda, Najava, Poziv",
       "kratkiopis": "sms, pozdrav, poruka, kratka i jasna vijest, oglas, kraći informativni razgovor.",
       "dugiopis": "",
-      "imgurl": "poruka.JPG"
+      "imgurl": "poruka.png"
     },
     {
       "id": 20,
@@ -159,7 +159,7 @@
       "karakteristike": "Duhovnost, Vjerovanje, Religijske konotacije",
       "kratkiopis": "Predstavlja osobe koje pitač poistovjećuje s autoritetom, a koji mu mogu pomoći u životu; učitelji, savjetnici, psiholozi, profesori, liječnici, duhovni vođe, astrolozi pa i doslovno svećenici. Ključna je komunikacija. Tajne, mistika, iskrenost, duhovnost, događaji ozbiljnijeg prizvuka npr.vjenčanje, rođenje/krštenje djeteta, bolesničko pomazanje  itd.",
       "dugiopis": "",
-      "imgurl": "svecenik.JPG"
+      "imgurl": "svecenik.png"
     },
     {
       "id": 21,
@@ -167,7 +167,7 @@
       "karakteristike": "Rizik, Gubitak, Tuga",
       "kratkiopis": "Zabrinutost, tuga, čekanje u kombinaciji sa zabrinutošću, financijske poteškoće, emotivna ispraznost, depresija, tiha patnja, nerazumijevanje okoline, zdravstveni problemi.",
       "dugiopis": "",
-      "imgurl": "tuga.JPG"
+      "imgurl": "tuga.png"
     },
     {
       "id": 22,
@@ -175,7 +175,7 @@
       "karakteristike": "Privlačnost, Ljubav, Pozitivno",
       "kratkiopis": "Lijepe i plemenite emocije, simapatije, sve najljepše i najbolje što se može poželjeti i zamisliti, ljubav, pozitivan utjecaj.",
       "dugiopis": "",
-      "imgurl": "ljubav.JPG"
+      "imgurl": "ljubav.png"
     },
     {
       "id": 23,
@@ -183,7 +183,7 @@
       "karakteristike": "Kršenje pravila, Ograničenja, Strah, Problemi",
       "kratkiopis": "Problemi, nespretnost, upadanje u nevolju svojom ili tuđom greškom, pogreške nastale kao posljedica naglosti ili tvrdoglavosti, neiskustva, loše koncentracije ili brzopletosti, baksuzluk.",
       "dugiopis": "",
-      "imgurl": "neprilika.JPG"
+      "imgurl": "neprilika.png"
     },
     {
       "id": 24,
@@ -191,7 +191,7 @@
       "karakteristike": "Povišica, Manji dobitak, Povrat novca",
       "kratkiopis": "Manji dobitak, djelomičan dobitak, novac, ali ne u očekivanom iznosu, otplata duga ili kredita, sitnice koje život čine, nedorečeno ljubano udvaranje, djelomično sviđanje.",
       "dugiopis": "",
-      "imgurl": "nestonovaca.JPG"
+      "imgurl": "nestonovca.png"
     },
     {
       "id": 25,
@@ -199,7 +199,7 @@
       "karakteristike": "Gubitak, Tugovanje, Rizik",
       "kratkiopis": "Iznenadno neugodan osjećaj, materijalni ili emotivan gubitak, rasprava i prekid odnosa, podjela.",
       "dugiopis": "",
-      "imgurl": "gubitak.JPG"
+      "imgurl": "gubitak.png"
     },
     {
       "id": 26,
@@ -207,7 +207,7 @@
       "karakteristike": "Špiuniranje, Druga žena, Zavid",
       "kratkiopis": "Svaka neugodnost (emotivna, fizička ili financijska) koja donosi negativnu rekaciju kod pitača, osoba koja je ljubomorna ili na koju smo mi  ljubomorni.",
       "dugiopis": "",
-      "imgurl": "ljubomora.JPG"
+      "imgurl": "ljubomora.png"
     },
     {
       "id": 27,
@@ -215,7 +215,7 @@
       "karakteristike": "Konačna presuda, Odluka od strane neke vlasti ",
       "kratkiopis": "Netko uniformiran i vezan za zakon i pravdu,  značajne odluke, strogost, odluke nekoga o kome ovisimo, dominantnost u odnosu.",
       "dugiopis": "",
-      "imgurl": "sudac.JPG"
+      "imgurl": "sudac.png"
     },
     {
       "id": 28,
@@ -223,7 +223,7 @@
       "karakteristike": "Planiranje, Zamisao, Ideja",
       "kratkiopis": "Razmišljanje, misao, zamišljenost, briga, nespremnost za donošenje odluke da se napravi pravi odabir ili prvi korak ka nečemu ili nekome.",
       "dugiopis": "",
-      "imgurl": "misao.JPG"
+      "imgurl": "misao.png"
     },
     {
       "id": 29,
@@ -231,7 +231,7 @@
       "karakteristike": "Loše vijesti, Nelagoda, Prepreka",
       "kratkiopis": "Problem uzrokovan nepromišljenošću, tvrdoglavošću i brzanjem.",
       "dugiopis": "",
-      "imgurl": "nesreca.JPG"
+      "imgurl": "nesreca.png"
     },
     {
       "id": 30,
@@ -239,7 +239,7 @@
       "karakteristike": "Novi početak, Trudnoća, Naivnost",
       "kratkiopis": "Briga o djetetu/djeci ili obitelji, promjenjiva i čudna osobnost, neozbiljnost, djetinjasto ponašanje, nešto malo, početak.",
       "dugiopis": "",
-      "imgurl": "dijete.JPG"
+      "imgurl": "dijete.png"
     },
     {
       "id": 31,
@@ -247,7 +247,7 @@
       "karakteristike": "Varanje, Gubitak nečega, Prevara",
       "kratkiopis": "Materijalni ili emotivni gubitak i problemi vezani uz financije, emocije ili zdravlje, zaboravljivost, iluzije, obmane, laži, tajne, pogrešne informacije, lažna obećanja.",
       "dugiopis": "",
-      "imgurl": "lopov.JPG"
+      "imgurl": "lopov.png"
     },
     {
       "id": 32,
@@ -255,7 +255,7 @@
       "karakteristike": "Osoba sa autoritetom, Profesionalnost",
       "kratkiopis": "Osoba koja nosi uniformu, uvijek predstavlja muškarca koji ima nekakav značaj u našem životu, kolega s posla, vojnik, sportaš, zaštitar, lječnik itd.",
       "dugiopis": "",
-      "imgurl": "oficir.JPG"
+      "imgurl": "oficir.png"
     },
     {
       "id": 33,
@@ -263,7 +263,7 @@
       "karakteristike": "Pronalazak, Priznanje",
       "kratkiopis": "Neplanirani lijep događaj, uspjeh koji nismo očekivali, poklon, pohvala, zaljubljenost, lijepa vijest.",
       "dugiopis": "",
-      "imgurl": "iznenadnasreca.JPG"
+      "imgurl": "iznenadnasreca.png"
     },
     {
       "id": 34,
@@ -271,7 +271,7 @@
       "karakteristike": "Bolest, Teret, Oporavak, Težina",
       "kratkiopis": "Loše se osjećati, zabrinutost, zakašnjenje, fizička bolest, problemi s koncentracijom, psihički i fizički umor.",
       "dugiopis": "",
-      "imgurl": "bolest.JPG"
+      "imgurl": "bolest.png"
     },
     {
       "id": 35,
@@ -279,7 +279,7 @@
       "karakteristike": "Posebna dama, Pitaoc ako je žensko",
       "kratkiopis": "Djevojka, dobre vijesti, ljepota, uljepšavanje, vjernost, ljubav, zaljubljenost, poštovanje.",
       "dugiopis": "",
-      "imgurl": "ljubavnica.JPG"
+      "imgurl": "ljubavnica.png"
     },
     {
       "id": 36,
@@ -287,7 +287,7 @@
       "karakteristike": "Nasljeđe, Dobitak, Sreća",
       "kratkiopis": "Vrijednost, značaj, novac, nekretnine, materijalna sigurnost.",
       "dugiopis": "",
-      "imgurl": "novac.JPG"
+      "imgurl": "novac.png"
     }
   ]
 }

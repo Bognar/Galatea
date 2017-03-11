@@ -1,0 +1,44 @@
+﻿<ion-view view-title="" hide-nav-bar="true">
+    <ion-content class="padding" overflow-scroll="false">
+
+
+        <div class="galateachibi">
+            <div ng-switch="chibitextbox">
+                <span class="chibikaze" ng-switch-default="null">
+                    Pozdrav, ja sam Galatea i bit ću tvoj vodič. Stisni dolje na "Pokaži kartu" za početak čitanja :-).
+                </span>
+                <span class="chibikaze" ng-switch-when="1">
+                    Prva karta označava prošlost! Za kartu sadašnjosti, opet pritisni "Pokaži kartu".
+                </span>
+                <span class="chibikaze" ng-switch-when="2">
+                    Druga karta označava sadašnjost! Za kartu budućnosti, pritisni jos jednom "Pokaži kartu".
+                </span>
+                <span class="chibikaze" ng-click="reset()" ng-switch-when="3">
+                    Ovo je karta budućnosti i kraj tvog čitanja sa kartama :-D. Za novo čitanje klikni tu <i class="ion-lightbulb"></i>
+                </span>
+                <span class="chibikaze" ng-init="reset()" ng-switch-when="4">
+
+                </span>
+            </div>
+
+        </div>
+        <div class="centerdiv">
+            <div class="gumb" ng-click="rndnumb()"> </div>
+        </div>
+
+        <div class="listpodatak" ng-show="perica" ng-repeat="x in bacanje | filter: {id:rand1}:true">
+            <div class="xrepeat">
+                <span class="slikakarte"><img src="./img/{{x.imgurl}}" /></span>
+                <span class="tekstkarte">
+                    <span class="titl">Naziv Karte:</span>{{x.naziv}}<br /><br />
+                    <span class="titl"> Osobine:</span>{{x.karakteristike}}<br /><br />
+                    <span class="titl"> Opis:</span>{{x.kratkiopis}}<br />
+
+                </span>
+            </div>
+
+        </div>
+
+        
+    </ion-content>
+</ion-view>

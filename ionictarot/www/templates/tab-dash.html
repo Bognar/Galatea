@@ -1,44 +1,44 @@
 ﻿<ion-view view-title="" hide-nav-bar="true">
-  <ion-content class="padding">
+    <ion-content class="padding" overflow-scroll="false">
 
-      
-      <div class="galateachibi">
-          <div ng-switch ="chibitextbox">
-          <span class="chibikaze" ng-switch-default="null">
-              Pozdrav, ja sam Galatea i bit ću tvoj vodič. Stisni dolje na "Pokaži kartu" za početak čitanja :-).
-          </span>
-          <span class="chibikaze" ng-switch-when="1">
-              Prva karta označava prošlost! Za kartu sadašnjosti, opet pritisni "Pokaži kartu".
-          </span>
-          <span class="chibikaze" ng-switch-when="2">
-              Druga karta označava sadašnjost! Za kartu budućnosti, pritisni jos jednom "Pokaži kartu".
-          </span>
-          <span class="chibikaze" ng-click="reset()" ng-switch-when="3">
-              Ovo je karta budućnosti i kraj tvog čitanja sa kartama :-D. Za novo čitanje klikni tu <i class="ion-lightbulb"></i>
-          </span>
-              <span class="chibikaze" ng-init="reset()" ng-switch-when="4">
-                  
-              </span>
-      </div>
 
-      </div>
+        <div class="galateachibi">
+            <div ng-switch="chibitextbox">
+                <span class="chibikaze" ng-switch-default="null">
+                    Dobro došli, ja sam Galatea i uvodim Vas u svijet tarota. Koncentrirajte se na svoje pitanje i stisnite na "Pokaži kartu" za početak čitanja :-).
+                </span>
+                <span class="chibikaze" ng-switch-when="1">
+                    Prva karta označava prošlost i opisuje događaje iz vaše prošlosti. Za kartu sadašnjosti, opet pritisnite "Pokaži kartu".
+                </span>
+                <span class="chibikaze" ng-switch-when="2">
+                    Ova karta označava sadašnjost i vezana je uz vaše pitanje! Za kartu budućnosti, pritisni jos jednom "Pokaži kartu".
+                </span>
+                <span class="chibikaze" ng-click="reset()" ng-switch-when="3">
+                    Ovo je karta budućnosti a predstavlja ono što možete očekivati. Za novo čitanje klikni tu <i class="ion-lightbulb"></i>
+                </span>
+                <span class="chibikaze" ng-init="reset()" ng-switch-when="4">
 
-      <div class="listpodatak" ng-show="perica" ng-repeat="x in bacanje | filter: {id:rand1}:true">
-          <div class="xrepeat">
-              <span class="slikakarte"><img src="img/{{x.imgurl}}" /></span>
-              <span class="tekstkarte">
-                  <b>Naziv Karte:</b>{{x.naziv}}<br /><br />
-                  <b>Karakteristike:</b>{{x.karakteristike}}<br /><br />
-                  <b>Opis:</b>{{x.kratkiopis}}<br />
+                </span>
+            </div>
 
-              </span>
-          </div>
-          
-      </div>
-      
-     <div class="centerdiv">
-      <div class="gumb" ng-click="rndnumb()"> </div>
-      </div>
+        </div>
+        <div class="centerdiv">
+            <div class="gumb" ng-click="rndnumb()"> </div>
+        </div>
 
-  </ion-content>
+        <div class="listpodatak" ng-show="perica" ng-repeat="x in bacanje | filter: {id:rand1}:true">
+            <div class="xrepeat">
+                <span class="slikakarte"><img src="./img/{{x.imgurl}}" /></span>
+                <span class="tekstkarte">
+                    <span class="titl">Naziv Karte:</span>&nbsp;{{x.naziv}}<br /><br />
+                    <span class="titl"> Osobine:</span>&nbsp;{{x.karakteristike}}<br /><br />
+                    <span class="titl"> Opis:</span>&nbsp;{{x.kratkiopis}}<br />
+
+                </span>
+            </div>
+
+        </div>
+
+        
+    </ion-content>
 </ion-view>
