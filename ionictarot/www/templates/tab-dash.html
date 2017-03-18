@@ -5,7 +5,7 @@
         <div class="galateachibi">
             <div ng-switch="chibitextbox">
                 <span class="chibikaze" ng-switch-default="null">
-                    Dobro došli, ja sam Galatea i uvodim Vas u svijet tarota. Koncentrirajte se na svoje pitanje i stisnite na "Pokaži kartu" za početak čitanja :-).
+                    Dobro došli, ja sam Galatea i uvodim Vas u svijet tarota. Koncentrirajte se na svoje pitanje i stisnite na "Pokaži kartu" za početak čitanja.
                 </span>
                 <span class="chibikaze" ng-switch-when="1">
                     Prva karta označava prošlost i opisuje događaje iz vaše prošlosti. Za kartu sadašnjosti, opet pritisnite "Pokaži kartu".
@@ -23,11 +23,11 @@
 
         </div>
         <div class="centerdiv">
-            <div class="gumb" ng-click="rndnumb()"> </div>
+            <div class="gumb animated jello" ng-click="rndnumb()"> </div>
         </div>
 
         <div class="listpodatak" ng-show="perica" ng-repeat="x in bacanje | filter: {id:rand1}:true">
-            <div class="xrepeat">
+            <div class="xrepeat animated pulse">
                 <span class="slikakarte"><img src="./img/{{x.imgurl}}" /></span>
                 <span class="tekstkarte">
                     <span class="titl">Naziv Karte:</span>&nbsp;{{x.naziv}}<br /><br />
@@ -37,7 +37,7 @@
                 </span>
             </div>
 
-        </div>
+        </div></br>
 
         
     </ion-content>
